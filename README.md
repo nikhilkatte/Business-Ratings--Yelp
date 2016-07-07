@@ -7,4 +7,3 @@ To find, to which business category, the above 'business_id' belongs to, includi
 
 To find, the number of businesses per category in the business.json dataset.
 
-etc.
