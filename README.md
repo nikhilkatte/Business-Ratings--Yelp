@@ -7,7 +7,7 @@ Data analysis is performed on Yelp business dataset( business .json ) , Downlaod
 -> Download the data set from the link mentioned above
 -> load the dataset into  hadoop hdfs cluster 
 -> perform map reduce on the data on hadoop cluster using (Yelp5.py) the python code above 
--> Boom!!! yoy will see the analysed results 
+-> Boom!!! you will see the analysed results 
 
 
 I have wirtten the python code using the python map reduce streaming libraries . which turns much complicated mapreduce code very simple and easy to understand and implement . 
