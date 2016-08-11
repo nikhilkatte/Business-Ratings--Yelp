@@ -13,7 +13,7 @@ Data analysis is performed on Yelp business dataset( business .json ) , Downlaod
 I have wirtten the python code using the python map reduce streaming libraries . which turns much complicated mapreduce code very simple and easy to understand and implement . 
 
 
-<h2>some of the intresting results extracted are: </h2>
+<h2>Few intresting results extracted : </h2>
 
 -> To which business category, the above 'business_id' belongs to, including it's 'state'.
 
